@@ -254,7 +254,8 @@ int main()
 ## Output:
 
 
-<img width="380" height="161" alt="image" src="https://github.com/user-attachments/assets/cee9388a-9703-464e-b91f-a21df90e87cc" />
+![Uploading image.png…]()
+
 
 
 
