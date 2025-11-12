@@ -236,7 +236,7 @@ int main()
     strcpy(key, "Monopoly");
     printf("Key text: %s\n", key);
 
-    strcpy(str, "preethi");
+    strcpy(str, "kaviya");
     printf("Plain text: %s\n", str);
 
     encryptByPlayfairCipher(str, key);
@@ -254,7 +254,8 @@ int main()
 ## Output:
 
 
-![Uploading image.png…]()
+<img width="437" height="185" alt="Screenshot 2025-11-12 105919" src="https://github.com/user-attachments/assets/5a4f7d95-45e4-43de-8aaa-dda7cdd0aeed" />
+
 
 
 
